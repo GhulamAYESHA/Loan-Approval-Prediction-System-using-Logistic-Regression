@@ -3,6 +3,6 @@ pandas
 streamlit
 matplotlib
 scikit-learn
-altair.vegalite.v4
+altair
 
 
